@@ -1,0 +1,17 @@
+<!-- 1) Make a folder in c drive        DjangoCourse
+2) open with vs code 
+3) create ENV in DjangoCourse  virtualenv env <- (enviroment name)
+4) in jangoCourse activete env (env\Script\activate)
+5) if u wnt to deactivate write (deactivate)
+6) in env install (pip install django)
+7) after installation (django-admin)
+8) and then django-admin startproject textutils (project name)
+9) after create project automaticlly install 1.__init__.py 2.asgi.py
+3.settings.py  4.urls.py   5.wsgi.py and 6.manage.py
+10) DjangoCourse me textutils me ana ho to (cd textutils) likhe ge.
+11) and usse bahar jane ke  liye write (cd ..)
+12) in cmd to clear write dir and powershell me write ls.
+13) project ko run krne ke bad autometiclly (db.sqlite3) banta hai.
+14) project ko run krne ke liye ham pehle 1. cd Textutils  2. python
+manage.py runserver 
+15) how to check what we have to download in env write (pip freeze). -->
